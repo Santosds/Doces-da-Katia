@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(243, 209, 165);
+    background-color: rgb(243, 162, 201);
     /*background: #fff1d6 url(images/noise.png);*/
     font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
     line-height: 1.6;
@@ -27,6 +27,13 @@ h1 a:hover {
     padding: 10px;
 }
 
+.doce {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-color: #ccc #999 #999 #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+}
 .place img {
     border: 1px solid #7e9f19;
     float: left;
@@ -34,6 +41,12 @@ h1 a:hover {
     padding: 2px;
 }
 
+.doce img {
+    border: 1px solid #7e9f19;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
 .place h2 {
     border-bottom: 1px dashed #7e9f19;
     margin: 0;
